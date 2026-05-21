@@ -1,0 +1,33 @@
+
+### Zenon Ziembiewicz
+
+Pochodzi ze zubożałej szlachty. Sytuacja jego rodziny jest konsekwencją nieudolności jego ojca - Waleriana Ziembiewicza, który stracił swój rodowy majątek oraz majątek żony, a obecnie zarządza majątkiem Tczewskich. Zenon był wychowany na wsi - w Boleborzy. Najpierw uczęszczał do gimnazjum, a później rozpoczął naukę w mieście. Problemy finansowe rodziców zmusiły go jednak do przyjęcia pracy. Jest pilnym i bardzo ambitnym uczniem, więc zaczyna udzielać korepetycji. Pobyt w mieście sprawia, że zaczyna inaczej patrzeć na swoich rodziców - dostrzega wady w ich stylu życia i relacji. Widzi, że jego matka pozwala ojcowi na zbyt dużo i wybacza jego zdrady. Zenon wielokrotnie obiecuje sobie, że nie będzie jak swoi rodzice.
+
+***Kompleks boleborzański** - ciągłe przekonywanie się, że nie powieli się błędów swoich przodków.
+
+Zenon nie jest wytrwały w tym postanowieniu, bo ma słaby charakter. Tłumaczy swoje zachowania, analogiczne do zachowań ojca, zamiarem studiowania w Paryżu. W Boleborzy poznaje córkę tamtejszej kucharki Karoliny Bogutowej - Justynę. Początkowo jej unika, a ona bacznie obserwuje Zenona. Zenon i Justyna zakochują się w sobie, a Zenon, wyjeżdżając do miasta, obiecuje jej do niej wrócić. W mieście jednak spotyka swoją dawną szkolną (i nieodwzajemnioną wówczas) miłość - Elżbietę Biecką, do której mieszkania w mieście dawniej przychodził. Prędko zakochuje się w niej na nowo, tym razem z odwzajemnieniem. Zenon przyjmuje od Czechlińskiego pracę redaktora w piśmie "Niwa", a później przyjmuje również ofertę pracy redaktora naczelnego, celem zbliżenia się do Elżbiety. Do miasta, po śmierci jej matki, przybywa jednak Justyna, zakochana po uszy w Zenonie. Zenon zaręcza się z Elżbietą, ale równocześnie okłamuje ją w kwestii natury swojej relacji z Justyną. Justyna zachodzi w ciążę. Zenon mówi o tym fakcie, Elżbiecie, na co ta początkowo mu wybacza, ale po rozmowie z samą Justyną na temat Zenona, postanawia go zostawić i wyprowadzić się do Warszawy. Zenon daje Justynie pieniądze, sugerując, że ich przeznaczeniem ma być aborcja, chociaż pozostawia w tej kwestii Justynie wolną wolę. Elżbieta pomaga Justynie znaleźć pracę, początkowo w sklepie bławatnym, później w cukierni. Zenon każde działanie usprawiedliwia w swojej głowie, nawet jeśli krzywdzi ludzi dookoła. Gdy Zenon wraca do Elżbiety, to ona tym razem zachodzi w ciążę, a Zenon zostaje prezydentem miasta nieopodal stolicy, co chce robić by polepszyć los robotników, budować mieszkania, przedszkola i place zabaw. Zostaje jednak oskarżony o wydanie rozkazu strzelania do robotników i pomimo jego wypierania się, nikt mu nie wierzy, przez co traci stanowisko. Justyna, po dokonanej aborcji i w depresji, w akcie zemsty oblewa Zenona kwasem, przez co traci wzrok. Niedługo po tym popełnia samobójstwo. 
+
+***Determinizm biologiczno-środowiskowy** - koncepcja, wg której środowisko i wychowanie kształtuje i wpływa na zachowanie ludzi.
+
+Zenon jest postacią tragiczną. Ponosi klęskę na wielu płaszczyznach - jako prezydent, mąż, kochanek. Niszczy nie tylko siebie, ale przyczynia się również do tragedii najbliższych, okazując się być jeszcze gorszym od swojego ojca. 
+
+*Jest się nie takim, jak myślą ludzie, nie jak myślimy o sobie, jest się takim, jak miejsce, w którym się jest.*
+
+
+### Cecylia Kolichowska
+
+Była dwukrotnie zamężna. Jej pierwsze małżeństwo było z Konstantym Wąbrowskim, z którym miała dziecko - Karola. Karol nie utrzymywał kontaktu z Cecylią, będąc obrażony o jej ponowne zamążpójście i ulegnięcie bardzo kontrolującemu mężowi. Kolichowska jest właścicielką kamienicy. Kamienica ta obrazuje pewne nierówności społeczne - na wyższych poziomach mieszkają bogaci, w tym sama Cecylia, a na niższych (a nawet w piwnicy) ubodzy, którzy mają tak mało miejsca, że *mieszkają warstwami*. Cecylia jest postacią bezlitosną, co pokazała zwalniając z pracy dozorcę. Robi się coraz starsza, a owego starzenia się bardzo się boi. Ma koleżanki, na których również obserwuje to starzenie się z ogromnym bólem, bo uświadamia jej to, że jest taka sama jak one. Widząc ten upływający czas, stroni od spotkań z nimi. Jest kontrolująca wobec Elżbiety, ale ją kocha i bardzo jej na niej zależy, po prostu nie potrafi takich emocji okazywać - utrzymuje twardą z zewnątrz postawę. Przed jej śmiercią zdążyła pogodzić się z Karolem, ale nie z Elżbietą. Karol przejął po niej kamienicę. Jej funkcja w powieści to podkreślenie przemijalności człowieka, ulotności i marności.
+
+
+### Jasia Gołąbska
+
+Mieszka w kamienicy Kolichowskiej, w skrajnej biedzie. Pracuje jako kucharka i próbuje zarobić na leczenie swojej ciężko chorej córki. Wszystkie jej dzieci umierają. Cecylia jest wobec niej obojętna, bo musi przecież pobierać opłatę za mieszkanie. Nawet jeśli czuje współczucie, nie ma to wpływu na jej bezduszne podejście do pobierania opłat. Elżbieta próbuje im pomóc, ale spotyka się z oporem Cecylii.
+
+
+### Fitek i Lulu
+
+Pomimo tego, że nie są najbardziej kluczowymi postaciami *Granicy* to są idealnym zobrazowaniem jednej z interpretacji tego tytułu - granicy społecznej.
+
+**Fitek** to pies Cecylii, który mieszkana podwórku i jest nieustannie trzymany na łańcuchu. Choć dużo szczeka, nie jest groźny. Jego życie jest bardzo monotonne, nie może biegać, bo kiedy próbuje to jego łańcuch się napina. Nie jest świadomy tego, jak zniewolony jest. Jest nieufny. Karmiony jest tylko raz dziennie, a w tej porze karmienie jest przepełniony radością. Cecylia i jej służba nie jest w stanie pojąć walki Elżbiety o dobrostan Fitka - dla nich to tylko ujadający pies-strażnik, którego trzeba trzymać na łańcuchu, bo inaczej stanie się rozpuszczony i będzie skomleć tylko bardziej. Fitek symbolizuje najniższe warstwy społeczne w kamienicy Kolichowskiej, dla nich metaforycznym łańcuchem jest trudna sytuacja finansowa, w której się znajdują, przez którą, tak jak Fitek, nie mogą zrobić kroku dalej. I na tych ludzi, i na Fitka, nie zwraca się uwagi - ich potrzeby są zupełnie nieistotne.
+
+**Lulu** natomiast to zupełne przeciwieństwo Fitka, to pies salonowy. Jest zadbany, otoczony wszelką opieką i cieszący się nieograniczoną wręcz swobodą. Lulu nie boi się Fitka, wręcz przeciwnie - kocha go denerwować, przechwalając się przed nim swoją rzekomą wyższością. Lulu lubi kłaść się tuż poza zasięgiem fitkowego łańcucha, aby ten nie mógł się do niego dobrać. Zabawa z Fitkiem to dla niego kaprys, sposób na owijanie go wokół swojej łapy. Lulu symbolizuje mieszkańców z wyższych pięter kamienicy - megalomanów, których pieniądze w żaden sposób nie ograniczają, którzy nie zwracają uwagi na jakość życia innych, a wręcz cieszy ich istnienie ubóstwa, bo dzięki niemu mają od kogo być lepszymi.
