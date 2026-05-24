@@ -10,7 +10,7 @@ Witold Gombrowicz [[Ferdydurke - Witold Gombrowicz#Lekcja j. polskiego||kpi z ro
 
 *Ferdydurke* to **powieść awangardowa**.
 
-Znaczenie tytułu *Ferdydurke* jest niewyjaśniona, prawdopodobnie jest to zupełnie losowa zbitka sylab, zabawa słów autora.
+Znaczenie tytułu *Ferdydurke* jest niewyjaśnione, prawdopodobnie jest to zupełnie losowa zbitka sylab, zabawa słów autora.
 
 Kluczowymi słowami do interpretacji powieści są [[Ferdydurke - Witold Gombrowicz#^655bdc|pupa]], [[Ferdydurke - Witold Gombrowicz#^4a88c4|łydka]] i [[Ferdydurke - Witold Gombrowicz#^d8f546|gęba]].
 
