@@ -49,7 +49,7 @@ Uczniowie są podzieleni na dwie grupy - grupę Syfona (tzw. chłopięta) i grup
 
 #### Pojedynek na miny
 
-To pojedynek Syfona i Miętusa na to, kto jest w stanie wykonać obrzydliwszą minę. Wygrywa go Syfon, co prowadzi do bójki, w wyniku której Miętus ***gwałci przez uszy*** Syfona (tzn. słowami). Syfon tego nie wytrzymał i powiesił się na wieszaku. Wszystkie gesty i reakcje są bardzo wyolbrzymione, karykaturalne, co jest komiczne i [[Ferdydurke - Witold Gombrowicz#^424987 |groteskowe]]. 
+To pojedynek Syfona i Miętusa na to, kto jest w stanie wykonać jak najbardziej wyniosłą i obrzydliwą minę odpowiednio. Wygrywa go Syfon, co prowadzi do bójki, w wyniku której Miętus ***gwałci przez uszy*** Syfona (tzn. słowami). Syfon tego nie wytrzymał i powiesił się na wieszaku. Wszystkie gesty i reakcje są bardzo wyolbrzymione, karykaturalne, co jest komiczne i [[Ferdydurke - Witold Gombrowicz#^424987 |groteskowe]]. 
 
 
 #### Lekcja j. łacińskiego
