@@ -3,13 +3,13 @@ Zawiera cechy **powieści psychologicznej**:
 Zaczyna się od końca losów bohaterów, tym samym zgłębiając ich psychikę, przez całą lekturę pokazując co motywowało ich do późniejszych działań, które były już opisane na początku.
 
 ##### Bohaterowie
-- Zenon Ziembiewicz
-- Elżbieta Biecka
-- Justyna Bogutówna
-- Cecylia Kolichowska
+- [[Postacie#Zenon Ziembiewicz|Zenon Ziembiewicz]]
+- [[Postacie#Elżbieta Biecka|Elżbieta Biecka]]
+- [[Postacie#Justyna Bogutówna|Justyna Bogutówna]]
+- [[Postacie#Cecylia Kolichowska|Cecylia Kolichowska]]
 - Joanna Ziembiewiczowa
-- Walerian Ziembiewicz
-- Jasia Gołąbska
+- [[Postacie#Walerian Ziembiewicz|Walerian Ziembiewicz]]
+- [[Postacie#Jasia Gołąbska|Jasia Gołąbska]]
 - Karol Wąbrowski
 - Karolina Bogutowa
 - Awaczewicz
