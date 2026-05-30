@@ -7,7 +7,7 @@ W tym czasie powstaje wiele organizacji młodzieżowych, w wyniku buntowniczej n
 
 Literatura tyrtejska - literatura, która zagrzewa jej czytelników do walki w prawdziwym życiu. 
 
-W literaturze wojennej podejmowany jest rozrachunek z wojną i dewastacją nią spowodowaną, fizyczną oraz moralną. Pojawią się w niej motyw **człowieka zlagrowanego**, czyli takiego, którzy przeszedł przez lagier (niemiecki obóz pracy). Pojawia się również pojęcie **odczłowieczenia**, czyli pozbawienia go wrażliwości, wolności do w zasadzie czegokolwiek. Człowiek staje się tylko przedmiotem, towarem, środkiem produkcji, co nazywa się **reifikacją**.
+W literaturze wojennej podejmowany jest rozrachunek z wojną i dewastacją nią spowodowaną, fizyczną oraz moralną. Pojawią się w niej motyw **człowieka zlagrowanego**, czyli takiego, którzy przeszedł przez lagier (niemiecki obóz pracy). To człowiek bez empatii, uodporniony na śmierć, zrobi wszystko żeby przetrwać, jest gotów poświęcić nawet własną rodzinę. Musi zrezygnować ze wszystkich wartości, w które wierzył zanim trafił do obozu. To ktoś, kto żyje kosztem innych. Przyjmuje realia obozowe za coś normalnego. Pojawia się również pojęcie **odczłowieczenia**, czyli pozbawienia go wrażliwości, wolności do w zasadzie czegokolwiek. Człowiek staje się tylko przedmiotem, towarem, środkiem produkcji, co nazywa się **reifikacją**. ^5bce99
 
 Pisarzy pokolenia kolumbów dzielimy na dwie grupy:
 - ci, którzy tworzyli podczas wojny i angażowali się w działania konspiracyjne
