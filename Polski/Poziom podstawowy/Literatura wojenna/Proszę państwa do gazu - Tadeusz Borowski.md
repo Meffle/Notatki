@@ -1,12 +1,12 @@
 
 
-### Tło i autor
+## Tło i autor
 
 *Proszę państwa do gazu* wchodzi w cykl opowiadań *Pożegnanie z Marią*. Tytułowa Maria Rundo to narzeczona, później żona Tadeusza Borowskiego. Tak jak on, była pochodzenia żydowskiego i trafiła do obozu. Została schwytana podczas łapanki ulicznej, czego był świadkiem.
 W tym cyklu miejsce zajmuje również opowiadanie *U nas w Auschwitz*, które zawiera list do Marii Rundo. Gdy Borowski znalazł się w obozie, przyznano i wytatuowano mu numer obozowy i przydzielano do różnych zadań (był uprzywilejowanym więźniem funkcyjnym). Pracował przy rozładunku wagonów, został wysłany na kurs dla sanitariuszy, pracował także jako dekarz. Dzięki swoim znajomościom i funkcji, mógł pisać listy i przekazywać je Marii. Po zakończeniu wojny, jego kontakt z Marią się urwał, ale dzięki swoim znajomościom m.in. w PCK i Towarzystwie do szukania osób zaginionych, udało mu się Marię odnaleźć, pobrali się, urodziła im się córka Małgorzata. Kilka dni po jej urodzinach, Tadeusz popełnił samobójstwo połykając środki nasenne i odkręcając gaz, bo nie był w stanie udźwignąć ciężaru i traumy po przeżyciu obozu oraz nie umiał odnaleźć się w powojennej rzeczywistości. Cierpiał na maniakalną depresję.
 
 
-### Omówienie
+## Omówienie
 
 - Miejsce akcji: Obóz w Auschwitz
 - Narracja pierwszoosobowa
@@ -22,7 +22,7 @@ Tytuł opowiadania ma charakter ironiczny, który jeszcze bardziej podkreśla tr
 Tematem opowiadania jest wizerunek **[[Literatura wojenna#^1f7909|człowieka zlagrowanego]]**.
 
 
-### Życie w obozie
+## Życie w obozie
 
 Na początku opowiadania następuje odwszwawianie, do którego użyty jest Cyklon B, który, słowami narratora *nadawał się świetnie do zabijania wszy i ludzi w komorze gazowej*, co obrazuje jak traktowani byli tam więźniowie. 
 
@@ -35,7 +35,7 @@ Większość opowiadania dotyczy pracy Kanady przy rozładunkach wagonów. Z iro
 Narrator natomiast obwinia religię, która nazywa opium dla narodu. Twierdzi, że gdyby nie ona trzymająca ich przy wierze, *więźniowie już dawno by rozwalili krematoria*. 
 
 
-### Rampa
+## Rampa
 
 Ludzi w transportach na rampę przywożono wagonami towarowymi. Z racji, że wszyscy więźniowie są goleni, fakt, że ci nowi mają jeszcze włosy, jest dla obozu rzeczą egzotyczną. W wagonach muszą jechać na stojąco przez długi czas, nie mają toalety, tylko wiadro. Powietrza w wagonach jest za mało. Więźniowie myślą, że jadą tylko do pracy i zabierają całe swoje dobytki ze sobą. Ludzi okłamuje się, co do faktu, że ich życie właśnie się kończy, co jest, za słowami narratora, jedyną dopuszczalną formą litości w obozie.
 
@@ -46,7 +46,7 @@ Tadek nie może zrozumieć swojej złości wobec transportowanych więźniów, t
 Cyklon B służący do gazowania ludzi jest przewożony przez ciężarówkę z czerwonym krzyżem, co jest kolejnym przykładem ironii w opowiadaniu Borowskiego.
 
 
-### Narracja i odwołania
+## Narracja i odwołania
 
 Więźniowie w Auschwitz są jak niewolnicy w starożytności. W obu przypadkach, ich wyzysk kosztuje ich zdrowie i życie. Niewolnicy, tak jak obozowicze, również byli nieustannie bici, zaganiani do okrutnie ciężkiej pracy, zupełnie bez ich wyboru, są zatem pozbawieni podstawowych praw i wolności do decydowania o własnym losie.
 
