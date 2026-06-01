@@ -7,7 +7,7 @@ Zaczyna się od końca losów bohaterów, tym samym zgłębiając ich psychikę,
 - [[Postacie#Elżbieta Biecka|Elżbieta Biecka]]
 - [[Postacie#Justyna Bogutówna|Justyna Bogutówna]]
 - [[Postacie#Cecylia Kolichowska|Cecylia Kolichowska]]
-- Żańcia Ziembiewiczowa
+- Joanna Ziembiewiczowa
 - [[Postacie#Walerian Ziembiewicz|Walerian Ziembiewicz]]
 - [[Postacie#Jasia Gołąbska|Jasia Gołąbska]]
 - Karol Wąbrowski
