@@ -24,20 +24,18 @@ Tematem opowiadania jest wizerunek **[[Literatura wojenna#^1f7909|człowieka zla
 
 ## Życie w obozie
 
-Na początku opowiadania następuje odwszwawianie, do którego użyty jest Cyklon B, który, słowami narratora *nadawał się świetnie do zabijania wszy i ludzi w komorze gazowej*, co obrazuje jak traktowani byli tam więźniowie. 
+Na początku opowiadania następuje odwszwawianie, do którego użyty jest Cyklon B, który, słowami narratora *nadawał się świetnie do zabijania wszy w ubraniach i ludzi w komorze gazowej*, co obrazuje jak traktowani byli tam więźniowie. 
 
 Większość opowiadania dotyczy pracy Kanady przy rozładunkach wagonów. Z ironicznego podejścia narratora do *przyjaźni* obozowych (które tak naprawdę nie istnieją) wynika, że nikomu w obozie, nawet wśród przyjaciół w Kanadzie, nie wolno ufać.
 
-**Kanada** - uprzywilejowana grupa robotników pracująca przy rozładunku transportów. Ma możliwość zdobycia dodatkowego pożywienia z transportów, ale cenne kosztowności musi przekazywać Rzeszy.
+**Kanada** - uprzywilejowana grupa więźniów pracująca przy rozładunku transportów. Ma możliwość zdobycia dodatkowego pożywienia z transportów, ale cenne kosztowności musi przekazywać Rzeszy.
 
-**Henri** ma pragmatyczne podejście - wie, że żyją dzięki transportom, że tylko transport nowych więźniów i kradzież ich jedzenia jest w stanie ich utrzymywać przy życiu i tę sytuację akceptuje.
-
-Narrator natomiast obwinia religię, która nazywa opium dla narodu. Twierdzi, że gdyby nie ona trzymająca ich przy wierze, *więźniowie już dawno by rozwalili krematoria*. 
+**Henri** ma pragmatyczne podejście - wie, że żyją dzięki transportom, że tylko transport nowych więźniów i kradzież ich jedzenia jest w stanie ich utrzymywać przy życiu i tę sytuację akceptuje. Obwinia religię, którą nazywa opium dla narodu. Narrator natomiast twierdzi, że gdyby nie ona trzymająca ich przy wierze, *więźniowie już dawno by rozwalili krematoria*. 
 
 
 ## Rampa
 
-Ludzi w transportach na rampę przywożono wagonami towarowymi. Z racji, że wszyscy więźniowie są goleni, fakt, że ci nowi mają jeszcze włosy, jest dla obozu rzeczą egzotyczną. W wagonach muszą jechać na stojąco przez długi czas, nie mają toalety, tylko wiadro. Powietrza w wagonach jest za mało. Więźniowie myślą, że jadą tylko do pracy i zabierają całe swoje dobytki ze sobą. Ludzi okłamuje się, co do faktu, że ich życie właśnie się kończy, co jest, za słowami narratora, jedyną dopuszczalną formą litości w obozie.
+Ludzi w transportach na rampę przywożono wagonami towarowymi. Z racji, że wszyscy więźniowie są goleni, fakt, że ci nowi mają jeszcze włosy, jest dla obozu rzeczą egzotyczną. W wagonach muszą jechać na stojąco przez długi czas, nie mają toalety, tylko wiadro. Powietrza w wagonach jest za mało. Więźniowie myślą, że jadą tylko do pracy i zabierają całe swoje dobytki ze sobą. Ludzi pp selekcji okłamuje się o tym, dokąd idą (a idą do gazu), co jest, za słowami narratora, jedyną dopuszczalną formą litości w obozie.
 
 Do obozu trafiają ludzie różnych narodowości. Więźniowie są od razu selekcjonowani na tych, którzy trafią do pracy i na tych, którzy z miejsca trafią do komory gazowej. Zwłoki ludzkie traktowane są bez jakiegokolwiek szacunku. Kobiety uciekają od swoich dzieci, bo wszystkie kobiety z dziećmi od razu trafiają do gazu, zatem tylko porzucając swoje dzieci są w stanie jakkolwiek przetrwać.
 
