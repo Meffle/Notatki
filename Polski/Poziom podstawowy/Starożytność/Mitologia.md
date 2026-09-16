@@ -62,6 +62,15 @@ Krajem miało rządzić dwóch jego synów na zmianę. Gdy Eteokles jako pierwsz
 Mit ten jest mitem antropogenicznym.
 Pewne podania mówiły, że człowiek jest tworem tytana Prometeusza, który ulepił go z gliny i łez, a duszę dał z ognia niebieskiego. Jego człowiek był słaby, nagi i niepodobny do otaczających go stworzeń. Gdy Prometeusz uczył ludzi sztuk, rzemiosła i używania ognia, nie spodobało się to Zeusowi. Kazał on wtedy Hefajstosowi stworzyć kobietę cudnej urody. Gdy Atena i Afrodyta nauczyły jej rozmaitych kobiecych wdzięków, a Hermes dał jej charakter, nazwano ją Pandorą. Była ona darem dla ludzi od wszystkich bogów. Gdy poszła ona do Prometeusza, to jego brat - Epimeteusz ożenił się z nią. Niedługo potem Pandora otworzyła puszkę, z której na świat wyleciały wszelkie nieszczęścia, choroby, smutki i biedy. Na dnie naczynia pozostała jedynie nadzieja. Prometeusz miał się bogom za ten podstęp podstępem odpłacić. Zabił wołu i podzielił go na mięso i kości pokryte tłuszczem. Dał Zeusowi wybrać część. Wybrał on grubszą, myśląc, że pod tłuszczem kryje się mięso. Zeus za karę przykuł Prometeusza do skał Kaukazu, aby codziennie głodny orzeł wyrywał mu odrastającą wątrobę. Prometeusz dał ludzkości wiele umiejętności, które zagwarantowały jej lepsze życie, ale obraza Zeusa była błędem z boskiej perspektywy. 
 Z perspektywy ludzkiej można nazwać ją aktem **prometeizmu** - heroicznego i bezinteresownego poświęcenia dla dobra ludzkości.
+##### Cechy Prometeusza
+- podstępny
+- uparty
+- heroiczny
+- inteligentny
+- oddany
+- opiekuńczy
+- odważny
+- buntowniczy
 
 # Mit o Dedalu i Ikarze
 
@@ -174,6 +183,10 @@ Bogini łowów i księżyca, opiekunka roślin i zwierząt. Córka Zeusa i Leton
 ### Hermes
 Bóg dróg, granic, snów i marzeń. Przewodnik dusz do Podziemia. Syn Zeusa i Mai. Bóg handlarzy. Był sprytny i zręczny. 
 > *Atrybuty: złota laska, szeroki podróżny kapelusz, skrzydlate sandały.*
+
+### Dionizos
+Jego ojcem był Zeus. Był bogiem wina, zabawy. Rządził zmartwychwstaniem i śmiercią. Odradza się wiosną, gdy wszystko kwitnie. Nauczył ludzi roli i bartnictwa. Święta na jego cześć zapoczątkowały teatr.
+> *Atrybut: gałąź oliwna*
 
 # Związki frazeologiczne
 
