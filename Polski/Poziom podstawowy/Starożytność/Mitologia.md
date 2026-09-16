@@ -174,3 +174,33 @@ Bogini łowów i księżyca, opiekunka roślin i zwierząt. Córka Zeusa i Leton
 ### Hermes
 Bóg dróg, granic, snów i marzeń. Przewodnik dusz do Podziemia. Syn Zeusa i Mai. Bóg handlarzy. Był sprytny i zręczny. 
 > *Atrybuty: złota laska, szeroki podróżny kapelusz, skrzydlate sandały.*
+
+# Związki frazeologiczne
+
+- **Ikarowe loty** – nieprzemyślane decyzje i działanie oraz beztroskość z $z$ efektem (również: wielkie marzenia z marnym skutkiem) | _mit o Dedalu i Ikarze_
+- **Syzyfowa praca** – praca nudna, żmudna i ciężka oraz niemożliwa do wykonania (bezsensowna, niekończąca się praca) | _mit o Syzyfie_
+- **Róg obfitości** – coś w dużej ilości, pod dostatkiem | _mit o narodzinach Zeusa (i kozie Amaltei)_
+- **Koń trojański** – podstęp, zdrada, zdobycz przynosząca zgubę, złowrogi/niebezpieczny podarunek | _mit o wojnie trojańskiej_
+- **Jabłko niezgody** – przyczyna poważnej kłótni | _mit o wojnie trojańskiej (spór o jabłko „dla najpiękniejszej”)_
+- **Prometejski bunt** – bunt w słusznej sprawie | _mit o Prometeuszu_
+- **Drakońskie prawo** – bardzo surowe prawo | _kontekst historyczny starożytnej Grecji (prawodawca Drakon z Aten)_
+- **Stajnia Augiasza** – wielki bałagan, miejsce zaniedbane, dawno niesprzątane, brud | _mit o Heraklesie (jedna z jego 12 prac)_
+- **Wieniec laurowy** – zwycięstwo, nagroda za zwycięstwo | _mit o Apollinie i Dafne_
+- **Złote runo** – bezcenny skarb | _mit o wyprawie Argonautów_
+- **Spartańskie warunki** – wychowanie i tryb życia w ciężkich warunkach | _historia i tradycja starożytnej Sparty_
+- **Puszka Pandory** – przyczyna kłopotów i zmartwień (źródło nieszczęść i kłopotów) | _mit o Pandorze i Prometeuszu_
+- **Pięta Achillesa** – słaby punkt | _mit o Achillesie_
+- **Paniczny strach** – ogromny strach, lęk nie do opanowania | _mit o bogu Panie_
+- **Węzeł gordyjski** – zagmatwana sprawa (trudna sprawa, ale łatwe rozwiązanie) | _mit/legenda o Aleksandrze Wielkim i królu Gordiosie_
+- **Nić Ariadny** – coś, co pozwala wyjść z trudnej sytuacji (rozwiązanie danego problemu, sytuacja, wskazówka) | _mit o Tezeuszu i Minotaurze_
+- **Argusowy wzrok / Argusowe oko** – czujny wzrok | _mit o Argusie i Io_
+- **Olimpijski spokój** – Niewzruszony spokój | _mit o bogach olimpijskich na Olimpie_
+- **Syreni śpiew** – coś uwodzicielskiego | _mit o Odyseuszu i syrenach_
+- **Szata Dejaniry** – niszczące niecierpienie | _mit o Heraklesie i Dejanirze_
+- **Być Narcyzem** – egoista | _mit o Narcyzie_
+- **Kraina cieni** – miejsce śmierci | _mit o Hadesie / Podziemiach_
+- **Pyrrusowe zwycięstwo** – osiągnięte za dużą siłą / wysoką cenę | _historia starożytnej Grecji (król Pyrrus)_
+- **Znaleźć się pod egidą** – być bezpiecznym | _mit o Zeusie (egida – tarcza Zeusa)_
+- **Wyrocznia delficka** – przepowiedziana tam przyszłość | _mit o Apollinie (świątynia w Delfach)_
+- **Znaleźć się między Scyllą a Charybdą** – być w sytuacji bez wyjścia | _mit o Odyseuszu_
+- **Męki Tantala** – nieustanne cierpienie wynikające z braku możliwości osiągnięcia czegoś, co wydaje się być łatwo osiągalne / dostępne na wyciągnięcie ręki | _mit o Tantalusie_
