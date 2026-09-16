@@ -1,6 +1,6 @@
 Teatr antyczny zapoczątkowany został w Grecji. Dawały mu początek **Dionizje** (święta obchodzone na cześć boga Dionizosa). Teatr narodził się w VIII w. p.n.e. i dał początek dramatowi.
 
-# Pojęcia podstawowe:
+# Pojęcia podstawowe
 
 - **Dramat** – pochodzi od słowa _drama_ i oznacza działanie.
 - **Dityramb** – podniosła, uroczysta pieśń na cześć Dionizosa.
