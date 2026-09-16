@@ -1,4 +1,3 @@
-
 # Ogólne informacje
 
 **Mit to opowieść o bogach i bohaterach, która ma objaśniać początki kosmosu i człowieka.**
