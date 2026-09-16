@@ -87,6 +87,8 @@ Demeter – starożytna matka dobra, mająca córkę Persefonę (Korę). Matka z
 
 Demeter pytała się każdego na ziemi o córkę przez 9 dni i nocy, jednak bez skutku. Na koniec przywlekła się do Eleusis nad Zatoką Salamińską i usiadła przy Dziewiczej Krynicy. Kamień, na którym spoczęła, nazwano Skałą Smutku, a źródło Pięknym. Gdy opowiedziano Demeter żal, ta zajęła się wychowaniem najmłodszego z królewiczów. Trzymała go nad ogniem, aby wypalić wszystko, co ziemskie, ale w pewnym momencie dziecko wypadło z rąk Demeter i spłonęło. Demeter dała królewiczowi Triptolemosowi wóz i kazała mu przelecieć całą ziemię, aby zasiać ziarno. Gdy dowiedziała się całej prawdy od Słońca, to odwołał ją Hermes, gdzie przeczekała żałobę w świątyni. Zeus wysłał wtedy Muzy, Charyty oraz najpiękniejsze boginie, jednak Demeter ich nie słuchała. Wtedy zlecono Hadesowi oddać Persefonę. Dostała ona jabłko granatu, z którego zjadła kilka ziarenek, przez co musiała corocznie na 3 miesiące wracać do męża. Gdy wychodziła na powierzchnię, była piękna wiosna, a gdy Persefona opuszczała matkę, była ponura jesień. Opisuje to jedna z najpiękniejszych scen w „Nocy listopadowej” Wyspiańskiego. Gdy nadchodzi wiosna, Persefona wraca z podziemi do matki, a kiedy wraca do Hadesu na zimę, cierpiąca Demeter sprawia, że ziemia przestaje rodzić plony. Demeter nazywano boginią życia, a Korę – śmierci. Atrybutami Demeter są kłosy i maki, a Persefony – narcyz i owoc granatu.
 
+# Drzewo genealogiczne bogów mitologii greckiej
+
 **Gaja** × **Uranos**
 
 - **Reja** × **Kronos**
@@ -116,3 +118,59 @@ Demeter pytała się każdego na ziemi o córkę przez 9 dni i nocy, jednak bez 
         - **Kora** _(ze związku z Zeusem)_
             
     - **Hades**
+
+# Charakterystyka bogów
+
+### Zeus
+Władca Olimpu, najważniejszy z bogów. Bóg nieba i pór roku, kontrolował pogodę. Określany jako gromowładny. Był pomocny ludziom, ale również srogi. Z zemsty do Hery powiesił ją. Przedstawiany w sposób majestatyczny, umięśniony, z dużą brodą i bujną czupryną.
+> *Atrybuty: piorun, orzeł, berło, tarcza z egidą.* 
+
+### Hera
+Opiekunka i patronka małżeństwa, rodzin, zamężnych kobiet, położnictwa i położnictwa. Królowa nieba i ziemi, najpotężniejsza bogini olimpijska, nienawidziła Heraklesa. Zazdrosna, inteligentna, samolubna, mściwa, wybuchowa, brutalna dla rywalek i ich dzieci. Przedstawiana jako piękna kobieta. Z wyglądu blada, wysoka, nosi diadem i lśniące fałdziste szaty. Ma czarujące spojrzenie.
+> *Atrybuty: berło, diadem, owoc granatu, paw.*
+
+### Posejdon
+Władca mórz, opiekun żeglarzy, rybaków, ludzi morza. Panował nad morzami, rzekami, wyspami i półwyspami. Mógł wywoływać fale, burze morskie i trzęsienia ziemi. Umięśniony, z brodą, z twarzy podobny do Zeusa. Przemieszcza się powozem zaprzężonym w konie. Otoczony orszakiem.
+> *Atrybuty: trójząb, koń, delfin, wieloryb.*
+
+### Hades
+Bóg podziemi, władca bezlitosny, nieprzychylny do ludzi. Małżonek Persefony. Składano mu czarną owcę jako ofiarę. Przedstawiany jako cichy, mroczny. Posiadacz psa Cerbera. Przedstawiany jako siedzący na tronie, wysoki i silny.
+> *Atrybuty: drzewa cyprysowe i narcyzy sadzone na grobach, róg obfitości.* 
+
+### Demeter
+Opiekunka rolnictwa, plonów, zbóż, wzrostu. Bogini ziemi, matka Kory. Po porwaniu córki przestała się opiekować ziemią. Przedstawiana z wieńcem z kłosów, jako posażna kobieta. Jest czułą, kochającą matką.
+> *Atrybuty: maki, kłosy zboża, cyprys, narcyz, pochodnia i naczynie.*
+
+### Hestia
+Bogini ogniska domowego, opiekunka domu i rodziny, poświęcony jej ogień palił się w domach i świątyniach.
+
+### Atena
+Bogini mądrości, wojny, nauki i rzemiosła. Córka Zeusa i Metis, urodziła się z głowy Zeusa. Władała Attyką i Atenami, wynalazła pług i uprawę oliwki. Nosiła zbroję, młoda, poważna kobieta. Była ulubienicą Zeusa. Przedstawiana z tarczą i boginią Nike.
+> *Atrybuty: sowa, hełm, egida, włócznia.*
+
+### Apollo
+Patron piękna, muzyki, poezji, muz, światła słonecznego, wróżbiarstwa. Był wysoki, smukły, jasnowłosy, posiadał dar wiecznej młodości. W sztuce przedstawiany jako ideał męskiego piękna, męski, młodzieńczy, najpiękniejszy z bogów. Był świetnym łucznikiem, obdarzył Midasia oślimi uszami, był czczony szczególnie przez Zeusa. Były mu poświęcone wyrocznie w Delfach. 
+> *Atrybuty: łuk, kołczan, laur, łabędź, jastrząb, kruk, cyfra, lira.*
+
+### Kora (Persefona)
+Królowa podziemia, bogini śmierci. W Hadesie rządziła duszami i potworami. Gdy opuszcza podziemia to nadchodzi wiosna, a gdy powraca, to nadchodzi zima. Córka Zeusa i Demeter. 
+> *Atrybuty: laurowy wieniec, podziemia.*
+
+### Afrodyta
+Najpiękniejsza z bogiń, bogini piękna i miłości. Narodziła się z morskiej piany. Była opiekunką małżeństwa, żona Hefajstosa i kochanka Ares. Była mściwa dla konkurentek i kobiet nie oddających jej czci. Gdy zdobyła jabłko z napisem „Dla najpiękniejszej”, przyczyniła się do wybuchu wojny trojańskiej. Kobiety zazdrościły jej urody, była wzorem piękna.
+> *Atrybuty: gołąb, róża, mirt, harfa, koszyk, muszla, złote jabłko.*
+
+### Ares
+Bóg wojny, uosobienie brutalnej siły i agresji. Syn Zeusa i Hery. Kochał zapach krwi oraz szczęk oręża. 
+> *Atrybuty: zbroja, hełm, tarcza, włócznia, pies, sęp.*
+
+### Hefajstos
+Bóg ognia, wulkanów, kowalstwa i metalurgii. Przedstawiany jako silny brodacz z młotem lub obcęgami. Syn Zeusa i Hery, posiadał siedzibę głównie w wulkanach, gdzie pracował z cyklopami. Stworzył tarczę dla Zeusa, trójząb dla Posejdona i zbroję dla Achillesa. Wychowywał się na Olimpijczyka. Miłośnik pięknych przedmiotów, kunsztowny, stworzył puszkę Pandory. Był pracowity, kulał.
+
+### Artemida
+Bogini łowów i księżyca, opiekunka roślin i zwierząt. Córka Zeusa i Letony, bliźniaczka Apolla. Wybitna łuczniczka, wiecznie młoda i dziewicza. 
+> *Atrybuty: łania, półksiężyc.*
+
+### Hermes
+Bóg dróg, granic, snów i marzeń. Przewodnik dusz do Podziemia. Syn Zeusa i Mai. Bóg handlarzy. Był sprytny i zręczny. 
+> *Atrybuty: złota laska, szeroki podróżny kapelusz, skrzydlate sandały.*
