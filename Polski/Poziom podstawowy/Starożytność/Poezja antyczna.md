@@ -1,11 +1,11 @@
-# _Exegi monumentum_ („Wybudowałem pomnik”)
+# ==_Exegi monumentum_== („Wybudowałem pomnik”)
 
 **Horacy** – był przedstawicielem liryki rzymskiej, jego twórczość związana jest z przemijaniem. Był synem wyzwolonego niewolnika. Wywodził się z najniższej warstwy społecznej. Zgodnie z tradycją i przekonaniem nie powinien zdobyć żadnego wykształcenia. Uzyskał je dzięki rzymskiemu politykowi Mecenasowi. Zapewnił opiekę finansową Horacemu. Od Mecenasa pochodzi nazwa instytucji mecenatu.
 
-- **Tytuł:** z 1. linijki tekstu – _incipit_.
+- **Tytuł:** z 1. linijki tekstu – **_incypit_**.
 - **Adresat:** Melpomena – muza sztuki.
 - **Metafora pomnika:** Pomnik, o którym mowa, to sztuka, duma danego artysty.
-- **Podmiot liryczny:** Podmiotem lirycznym jest artysta o przekonaniu, że jego sztuka nie przeminie, co da mu sławę i będzie zapamiętany: _„nie wszystek umrę”_ – **non omnis moriar**.
+- **Podmiot liryczny:** Podmiotem lirycznym jest artysta o przekonaniu, że jego sztuka nie przeminie, co da mu sławę i będzie zapamiętany: _„nie wszystek umrę”_ – ==**non omnis moriar**==.
 - **Cechy pomnika:** trwały, niezniszczalny, monumentalny, niematerialny, ponadczasowy, wieczny.
 - **Podwójna natura artysty:** ludzka i związana ze sztuką.
 - **Postawa artysty:** Stał się sławny, rozsławił twórczość poza miejsce, w którym powstała. Zwraca się do muzy, aby go nagrodziła za zwycięstwo wieńcem laurowym.

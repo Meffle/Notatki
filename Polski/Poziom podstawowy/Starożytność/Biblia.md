@@ -1,6 +1,6 @@
 Nazwa pochodzi od greckiego słowa _biblion_ – księga, zbiór papirusów.
 
-# Ogólne informacje o biblii
+# ==Ogólne informacje o biblii==
 ### Podział i datowanie:
 - **Stary Testament:** 46 ksiąg (powstawał od XIII do I w. p.n.e.).
 - **Nowy Testament:** 27 ksiąg (powstawał w I–II w. n.e.).
@@ -34,11 +34,11 @@ Biblia rozpoczyna się Pięcioksięgiem, w skład którego wchodzą:
 ### Księga Hioba
 - **Hiob** – człowiek dobry, sprawiedliwy, prawy, religijny i bogaty.
 - Szatan chciał udowodnić Bogu, że Hiob jest w błędzie i wierzy jedynie z powodu swojego bogactwa.
-- **Motyw cierpienia niezawinionego** – cierpienie bez powodu i bez kary, nienależące się człowiekowi prawemu.
+- ==**Motyw cierpienia niezawinionego**== – cierpienie bez powodu i bez kary, nienależące się człowiekowi prawemu.
 ### Księga Koheleta (Eklezjastesa)
 - **Kohelet** – mędrzec przemawiający podczas zgromadzeń, znający zasady retoryki i erystyki.
-- **Vanitas** – marność, motyw związany z przemijaniem i ulotnością ludzkiego życia.
-- **_Vanitas vanitatum et omnia vanitas_**  – „Marność nad marnościami i wszystko marność”.
+- ==**Vanitas** – marność, motyw związany z przemijaniem i ulotnością ludzkiego życia.==
+- ==**_Vanitas vanitatum et omnia vanitas==_**  ==– „Marność nad marnościami i wszystko marność”.==
 - **Przesłanie:** Według Koheleta ludzka praca i starania nie mają głębszego sensu, wszystko jest monotonne, a człowieka i tak czeka śmierć. Zwraca się do młodych, by korzystali z życia, lecz pamiętali o Sądzie Ostatecznym oraz o tym, że rzeczy materialne są ulotne.
 ### Księga Psalmów (Psałterz)
 - **Psalm** – gatunek liryczny, nazwa pochodzi od instrumentu _psalterion_.
@@ -53,7 +53,7 @@ Biblia rozpoczyna się Pięcioksięgiem, w skład którego wchodzą:
     - **Oblubienica:** piękna, czysta, tajemnicza, poszukująca miłości.
     - **Oblubieniec:** wierny, zachwycony, porywczy, szanujący urodę wybranki; dba o balans między fizycznością a duchowością, daje schronienie i czerpie z miłości.
 
-# Nowy testament
+# ==Nowy testament==
 ### Ewangelie
 - **4 Ewangelie:** św. Mateusza, św. Marka, św. Łukasza i św. Jana. Pierwsze trzy nazywane są **Ewangeliami synoptycznymi**.
 - **Przypowieść (parabola):** Główny gatunek epicki Nowego Testamentu. Posiada dwie warstwy znaczeniowe: **dosłowną** oraz **alegoryczną/przenośną** (odnoszącą się do relacji Boga z człowiekiem).
@@ -70,13 +70,13 @@ _Apokalipsa_ oznacza **objawienie**. Księga zawiera katastroficzną wizję koń
 - **Liczba 666** – Bestia / Szatan.
 - **Babilon** – symbol zepsucia i zła.
 - **Bestia wychodząca z wody** (7 głów, 10 rogów, diademy) – symbol władzy zła przejmowanej nad światem przed jego upadkiem.
-##### Czterej Jeźdźcy Apokalipsy:
+##### ==Czterej Jeźdźcy Apokalipsy==:
 1. **Jeździec na białym koniu** (z łukiem i wieńcem) – Zwycięstwo.
 2. **Jeździec na ognistym/czerwonym koniu** (z mieczem) – Wojna.
 3. **Jeździec na czarnym koniu** (z wagą) – Głód.
 4. **Jeździec na trupiobladym koniu** (Śmierć) – Śmierć (w towarzystwie Otchłani/Piekła).
 
-# Związki frazeologiczne
+# ==Związki frazeologiczne==
 - **Wieża Babel** – niezrozumienie, brak wspólnego języka.
 - **Zakazany owoc** – coś kuszącego, ale zabronionego.
 - **Trzydzieści srebrników** – zapłata za zdradę, łapówka.

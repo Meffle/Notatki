@@ -1,4 +1,4 @@
-# Cechy eposu
+# ==Cechy eposu==
 
 - Epika, obecność narratora.
 - Podniosły ton.
@@ -24,7 +24,7 @@ Pojedynek między Hektorem a Achillesem był długi, zawzięty i ostry. Obaj czu
 
 # Odyseja
 
-_Odyseja_ – epos homerycki, którego tematem jest powrót Odyseusza z wojny trojańskiej. Odyseusz po 20 latach nieobecności wraca do domu, gdzie czeka na niego żona Penelope (Penelopa). Odyseusz napotyka wiele przeszkód, które dzielnie pokonuje. Od jego tułaczki pochodzi topos wędrowca, który ma charakter symboliczny i jest interpretowany jako ludzkie życie.
+_Odyseja_ – epos homerycki, którego tematem jest powrót **==Odyseusza==** z wojny trojańskiej. Odyseusz po 20 latach nieobecności wraca do domu, gdzie czeka na niego żona Penelope (**==Penelopa==**). Odyseusz napotyka wiele przeszkód, które dzielnie pokonuje. Od jego tułaczki pochodzi topos wędrowca, który ma charakter symboliczny i jest interpretowany jako ludzkie życie.
 
 ### Plan wydarzeń (spotkanie z Cyklopem Polifemem):
 
@@ -38,7 +38,7 @@ _Odyseja_ – epos homerycki, którego tematem jest powrót Odyseusza z wojny tr
 8. Ucieczka Odyseusza.
 9. Satysfakcja Odyseusza.
 
-### Cechy Odyseusza
+### ==Cechy Odyseusza==
 - bezwzględny,
 - sprytny,
 - inteligentny,

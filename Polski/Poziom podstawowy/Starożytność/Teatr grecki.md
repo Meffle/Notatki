@@ -25,7 +25,7 @@ Teatr antyczny zapoczątkowany został w Grecji. Dawały mu początek **Dionizje
 ##### Chór:
 Początkowo składał się z 12 osób, później z 15. Opowiada o wydarzeniach, które mają miejsce w innym miejscu i czasie, komentuje wydarzenia, wskazuje na emocje bohaterów, rozpoczyna i kończy spektakl.
 
-### Cechy tragedii greckiej
+### ==Cechy tragedii greckiej==
 - **Zasada 3 jedności:**
     - jedność czasu (mniej niż 24h),
     - jedność miejsca,
@@ -53,7 +53,7 @@ Początkowo składał się z 12 osób, później z 15. Opowiada o wydarzeniach, 
 
 
 # Król Edyp
-### Zarys wydarzeń
+### ==Zarys wydarzeń==
 1. Zostaje zaopiekowany przez Merope i Polybosa.
 2. Na prośbę Jokasty przekłuto mu pięty.
 3. Później poznaje przepowiednię z wyroczni i opuszcza Korynt.
@@ -109,7 +109,7 @@ Początkowo składał się z 12 osób, później z 15. Opowiada o wydarzeniach, 
 11. Śmierć Eurydyki.
 12. Rozpacz Kreona.
 
-### Charakterystyka Antygony
+### ==Charakterystyka Antygony==
 Córka Edypa i Jokasty, siostra Polinika, Eteoklesa i Ismeny. Pochodzi z Teb, z rodu Labdakidów. Narzeczona Hajmona, siostrzenica Kreona, który włada Tebami. Kieruje się prawem boskim. Współczująca, wierna prawom boskim, uparta, konsekwentna, kocha swoją rodzinę. Jest typem buntownika. Dba o to, aby zwłoki jej brata zostały pochowane, by jego dusza się nie błąkała. Jest inteligentna, odważna, postępuje szlachetnie. Podważa autorytet władcy. Postawiona w sytuacji trudnego wyboru pomiędzy prawem boskim a prawem ludzkim.
 
 Zostaje skazana na śmierć przez zamurowanie. Popełnia samobójstwo. Dała sobie prawo do wyboru sposobu śmierci. Jej śmierć ma konsekwencje w postaci śmierci Hajmona oraz jego matki Eurydyki. Nie zgadza się z określeniem Polinika jako zdrajcy. Uważa, że bracia powinni zostać pochowani. Przyznaje się do winy, świadoma konsekwencji. Opiekuńcza, odpowiedzialna, krytykuje Ismenę za jej decyzję, zdeterminowana w dążeniu do celu. Kieruje się emocjami, jest porywcza. Żali się, że nie zaznała uroku życia, ubolewa nad losem Kreona.
@@ -125,7 +125,7 @@ Porównuje siebie do Niobe. Mówi, że przeznaczenie jej zazdrościło opieki. M
 - kieruje się zgodnością z własnymi przekonaniami,
 - broni godności i wartości swojej.
 
-### Charakterystyka Kreona
+### ==Charakterystyka Kreona==
 Władca Teb po śmierci Edypa, Jokasty i ich synów. Brat Jokasty, wuj Antygony i Ismeny. Opiekuje się Antygoną i Ismeną, powierzono mu pilnowanie, gdy bracia zamieniali się na tron. Jest władcą brutalnym i despotycznym, przekonanym o swojej racji. Jest władcą, nie akceptuje sprzeciwu. Jest surowy i nieprzestrzeganie prawa dotkliwie karze. Władca absolutny, nie dotrzymał obietnicy złożonej Edypowi. Przedkłada wola wyższa nad prawo ludzkie, żąda posłuszeństwa od ludzi. Nazywany bezwzględnym dzieciobójcą, wydaje zakaz grzebania zwłok Polinika. Demagog, posiada ogromną siłę, słucha tylko siebie. Przestraszył się przepowiedni Kreona (Tyrezjasza). Ignoruje swojego syna, dopatruje się zdrady i podstępu – jest nieufny. Boi się utraty tronu, chciwy i podejrzliwy, zastrasza, lekceważy lud i boi się, że lud mu się zbuntuje. Zrozumiał swój błąd, ale nie mógł nic zmienić. Niespodziewany bieg wydarzeń kończy się tragicznie.
 ##### **Racje Kreona:**
 - kierowanie się prawem ludzkim i własnym prawem,
@@ -136,9 +136,9 @@ Władca Teb po śmierci Edypa, Jokasty i ich synów. Brat Jokasty, wuj Antygony 
 - starcie 2 sił: siły rozumu z siłą uczuć,
 - konsekwencje kierowania się własnym interesem.
 
-### Konflikt i Tragizm w _Antygonie_
+### ==Konflikt i Tragizm w _Antygonie_==
 Tragizm _Antygony_ jest starciem dwóch równorzędnych racji:
 - **Tragizm Antygony:** wybór pomiędzy prawem boskim a prawem ludzkim, z tragicznymi konsekwencjami obu wyborów (śmierć w młodym wieku).
 - **Tragizm Kreona:** spełnienie założeń swojej władzy absolutnej a dobro rodziny; postawienie prawa ludzkiego nad wolą praw boskich.
 
-**Bohater tragiczny:** Postawiony jest w sytuacji, gdy ścierają się 2 równorzędne racje (konflikt tragiczny). Nie ma dobrej decyzji, wybiera gorszą decyzję. Kończy klęską. Bohater tragiczny nie ma większego wpływu na swój los. Leży w nim fatum, jest samotny.
+==**Bohater tragiczny:** Postawiony jest w sytuacji, gdy ścierają się 2 równorzędne racje (konflikt tragiczny). Nie ma dobrej decyzji, wybiera gorszą decyzję. Kończy klęską. Bohater tragiczny nie ma większego wpływu na swój los. Leży w nim fatum, jest samotny.==
