@@ -32,7 +32,7 @@
 
 # Mit o stworzeniu świata
 
-Mit łączy elementy mitu **[[Mitologia#Rodzaje mitów|kosmogonicznego i teogonicznego]]** .
+Mit łączy elementy mitu **[[Mitologia#Rodzaje mitów|kosmogonicznego i teogonicznego]]**.
 Opowiada o uformowaniu się świata z chaosu oraz o narodzinach kolejnych pokoleń bogów.
 
 #### Plan wydarzeń
