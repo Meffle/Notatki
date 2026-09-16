@@ -35,7 +35,7 @@ Większość opowiadania dotyczy pracy Kanady przy rozładunkach wagonów. Z iro
 
 ## Rampa
 
-Ludzi w transportach na rampę przywożono wagonami towarowymi. Z racji, że wszyscy więźniowie są goleni, fakt, że ci nowi mają jeszcze włosy, jest dla obozu rzeczą egzotyczną. W wagonach muszą jechać na stojąco przez długi czas, nie mają toalety, tylko wiadro. Powietrza w wagonach jest za mało. Więźniowie myślą, że jadą tylko do pracy i zabierają całe swoje dobytki ze sobą. Ludzi pp selekcji okłamuje się o tym, dokąd idą (a idą do gazu), co jest, za słowami narratora, jedyną dopuszczalną formą litości w obozie.
+Ludzi w transportach na rampę przywożono wagonami towarowymi. Z racji, że wszyscy więźniowie są goleni, fakt, że ci nowi mają jeszcze włosy, jest dla obozu rzeczą egzotyczną. W wagonach muszą jechać na stojąco przez długi czas, nie mają toalety, tylko wiadro. Powietrza w wagonach jest za mało. Więźniowie myślą, że jadą tylko do pracy i zabierają całe swoje dobytki ze sobą. Ludzi po selekcji okłamuje się o tym, dokąd idą (a idą do gazu), co jest, za słowami narratora, jedyną dopuszczalną formą litości w obozie.
 
 Do obozu trafiają ludzie różnych narodowości. Więźniowie są od razu selekcjonowani na tych, którzy trafią do pracy i na tych, którzy z miejsca trafią do komory gazowej. Zwłoki ludzkie traktowane są bez jakiegokolwiek szacunku. Kobiety uciekają od swoich dzieci, bo wszystkie kobiety z dziećmi od razu trafiają do gazu, zatem tylko porzucając swoje dzieci są w stanie jakkolwiek przetrwać.
 
