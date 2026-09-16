@@ -1,4 +1,4 @@
-# Cechy eposu:
+# Cechy eposu
 
 - Epika, obecność narratora.
 - Podniosły ton.
