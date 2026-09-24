@@ -21,5 +21,5 @@ W utworze pojawia się wątek biograficzny – podmiot liryczny nawiązuje do po
 - **Anakreont** – poeta wychwalający zabawę, przyjemności, kobiety; twórca gatunku zwanego _anakreontykiem_.
 - **Symonides** – twórca epigramatów, czyli krótkiego utworu zamieszczanego na pomnikach.
 - **Teokryt** – twórca sielanki zwanej też _idyllą_, wychwalającej życie na łonie natury, podkreślającej związek człowieka z przyrodą. Odwoływał się do antycznej Arkadii.
-- **Safona** – pierwsza poetka z wyspy Lesbos, kochała dziewczęta, założyła dla nich szkołę, w której uczyła je wypełniania roli żony. Pociągały ją fizycznie, zapoczątkowała miłość lesbijską. Pisała o tematyce miłosnej (erytyki).
+- **Safona** – pierwsza poetka z wyspy Lesbos, kochała dziewczęta, założyła dla nich szkołę, w której uczyła je wypełniania roli żony. Pociągały ją fizycznie, zapoczątkowała miłość lesbijską. Pisała o tematyce miłosnej (erotyki).
 - **Owidiusz** – autor elegii, stworzył przewodnik po świecie miłości liryki, pierwszą sztukę kochania – _Ars amandi_.
