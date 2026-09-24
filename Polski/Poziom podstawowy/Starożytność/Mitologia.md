@@ -24,7 +24,7 @@
 - **teogoniczne** (o powstawaniu bogów)
 - **kosmogoniczne** (o powstawaniu świata)
 - **antropogeniczne** (o powstawaniu człowieka)
-- **heroiczne** (o powstawaniu herosów)
+- **heroiczne** (o herosach)
 - **genealogiczne** (o powstawaniu rodów)
 - **ajtiologiczne** (o powstawaniu zjawisk przyrodniczych, obyczajów, nazw, itd.)
 
@@ -46,7 +46,7 @@ Opowiada o uformowaniu się świata z chaosu oraz o narodzinach kolejnych pokole
 6. Dzeus zostaje oddany przez Reję pod opiekę **Amaltei**, której mlekiem się żywi.
 7. Róg Amaltei zostaje ukruszony, a Zeus go błogosławi, przez co powstaje **==róg obfitości==**.
 	Po śmierci Amaltei, Dzeus stworzy z jej skóry **egidę**, najtrwalszy ze wszelkich pancerzy.
-8. Po dorośnięciu, Dzeus wytacza walkę ojcu, Kronosowi.
+8. Po dorośnięciu, Dzeus wypowiada wojnę ojcu, Kronosowi.
 9. Kronos wypluwa **Hadesa, Posejdona, Herę, Demeter i Hestię**, którzy dołączają do walki z ojcem.
 10. Dzeus zasiada na tronie.
 
@@ -216,3 +216,4 @@ Jego ojcem był Zeus. Był bogiem wina, zabawy. Rządził zmartwychwstaniem i ś
 - **Wyrocznia delficka** – przepowiedziana tam przyszłość | _mit o Apollinie (świątynia w Delfach)_
 - **Znaleźć się między Scyllą a Charybdą** – być w sytuacji bez wyjścia | _mit o Odyseuszu_
 - **Męki Tantala** – nieustanne cierpienie wynikające z braku możliwości osiągnięcia czegoś, co wydaje się być łatwo osiągalne / dostępne na wyciągnięcie ręki | _mit o Tantalusie_
+- **Wierna Penelopa** – ktoś tak wierny, że wytrwa nawet przez 20 lat samotności | _mit o Odyseuszu_
