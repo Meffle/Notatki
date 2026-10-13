@@ -1,4 +1,4 @@
-Campo di Fiori to plac w Rzymie, na którym w 1600 roku spalono publicznie Giordano Bruno. Był on zwolennikiem teorii heliocentrycznej Mikołaja Kopernika, za co został wygnany z gminy żydowskiej, uznany za heretyka i skazany na śmierć.
+cCampo di Fiori to plac w Rzymie, na którym w 1600 roku spalono publicznie Giordano Bruno. Był on zwolennikiem teorii heliocentrycznej Mikołaja Kopernika, za co został wygnany z gminy żydowskiej, uznany za heretyka i skazany na śmierć.
 
 Utwór Miłosza zawiera dwie płaszczyzny - Campo di Fiori i Warszawa, tuż przy murze getta, gdzie ustawiono karuzele.
 Na Campo di Fiori jest targ i przepych, a na tym samym placu ustawiono stos, gdzie ma spłonąć Giordano Bruno. Kat podpala ten stos, który otoczony jest gapiami, którzy nie współczują heretykowi, tylko są ciekawi. Po spłonięciu stosu ludzie odwrócili się i wrócili do normalnego życia na targu.
