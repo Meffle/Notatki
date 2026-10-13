@@ -21,7 +21,7 @@ Styl romański trwał od **IX do XIII wieku**.
 
 - o tematyce sakralnej
 - deformowano ludzi i zwierzęta, nie stosowano perspektywy, wszystko było płaskie i jedno nad drugim
-- najczęściej malowano **polichromie**, czyli kolorowe obrazy zdobiące sklepienia i ściany
+- najczęściej malowano **polichromie**, czyli kolorowe obrazy zdobiące sklepienia i ściany.
 - w krajach związanych z Bizancjum stosowano **mozaiki**
 
 # Styl gotycki

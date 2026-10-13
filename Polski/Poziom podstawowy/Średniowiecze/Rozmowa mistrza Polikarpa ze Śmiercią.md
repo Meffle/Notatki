@@ -4,7 +4,7 @@
 - ma formę **dialogu**
 - jest konfrontacją dwóch mądrości:
   - **ziemskiej** – reprezentuje ją Polikarp (imię to oznacza: obfity, zasobny)
-  - **metafizycznej** – reprezentuje ją Śmierć; traktowana jest jako mądrość, ponieważ ma kontakt ze wszystkimi ludźmi i wszystkich, niezależnie od pochodzenia i wykształcenia, traktuje w ten sam sposób
+  - **metafizycznej** – reprezentuje ją Śmierć; traktowana jest jako mądrość, ponieważ ma kontakt ze wszystkimi ludźmi i wszystkich, niezależnie od pochodzenia i wykształcenia, traktuje w ten sam sposób.
 - w utworze występuje popularny w średniowieczu motyw ==**danse macabre**== – taniec śmierci
 - opiera się na tzw. **demokratyzacji śmierci**: w obliczu śmierci wszyscy są równi i wszyscy się z nią spotykają
 - wpisuje się w średniowieczny nurt ==**[[Polski/Poziom podstawowy/Średniowiecze/Filozofia#Ogólne informacje||memento mori]]**==

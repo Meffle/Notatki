@@ -22,7 +22,7 @@
   - języka – łaciński
   - wiary – chrześcijaństwo
   - władzy – papież i cesarz
-- **anonimowość** – *ad Dei gloriam!* – na chwałę Boga; wszystkie dzieła powstawały w myśl tego hasła, dlatego artyści nie podpisywali się; wierzono, że autorem wszystkiego jest Bóg
+- **anonimowość** – *ad Dei gloriam!* – na chwałę Boga; wszystkie dzieła powstawały w myśl tego hasła, dlatego artyści nie podpisywali się; wierzono, że autorem wszystkiego jest Bóg.
 - **parenetyczność** (pareneza) – wzór, pouczenie (doskonały władca, doskonały rycerz, asceta):
   - doskonali władcy: Bolesław Krzywousty (zob. [[Kronika polska]]), król Marek, Karol Wielki
   - doskonały rycerz: Roland (zob. [[Pieśń o Rolandzie]])

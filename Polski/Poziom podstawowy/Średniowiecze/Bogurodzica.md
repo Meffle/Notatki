@@ -7,7 +7,7 @@
 - problematyczna jest również sprawa autorstwa
   - niektórzy uważają, że jest nim św. Wojciech, ale teza ta zostaje obalona przez językoznawców, którzy na podstawie procesów językowych sytuują ją w XIII w.
 - ma 13 zwrotek, ale najstarsze są tylko dwie pierwsze
-- Jan Długosz określa „Bogurodzicę" mianem *carmen patrium* – pieśń ojców
+- Jan Długosz określa „Bogurodzicę" mianem *carmen patrium* – pieśń ojców.
 
 # Bogurodzica w języku współczesnym
 

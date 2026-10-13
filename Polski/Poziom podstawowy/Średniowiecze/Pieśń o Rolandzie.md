@@ -4,7 +4,7 @@
 - utwór ten jest określany też jako **epos rycerski**
 - zaliczany jest do literatury **parenetycznej** – wskazuje wzorce osobowe; w tekście przedstawiony jest ideał rycerza
 - utwór dotyczy wyprawy króla Franków Karola Wielkiego przeciwko Saracenom (Arabom); walki miały miejsce w Hiszpanii opanowanej przez Arabów
-- utwór powstał przed pierwszą wyprawą krzyżową i miał dać przykład bohaterstwa i poświęcenia dla wiary i Boga
+- utwór powstał przed pierwszą wyprawą krzyżową i miał dać przykład bohaterstwa i poświęcenia dla wiary i Boga.
 
 # Roland
 

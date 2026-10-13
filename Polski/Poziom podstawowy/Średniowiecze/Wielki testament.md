@@ -5,7 +5,7 @@
 - utwór zawiera wiele **ballad**
   - **ballada** – gatunek synkretyczny; pochodzi od słowa *ballare*, czyli tańczyć
   - początkowo gatunek ten był śpiewany przy wtórze muzyki
-- człowiek ma do odegrania pewną rolę na scenie świata, po czym umiera, często bywa zapomniany
+- człowiek ma do odegrania pewną rolę na scenie świata, po czym umiera, często bywa zapomniany.
 
 # Autor
 

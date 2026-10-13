@@ -5,7 +5,7 @@
 - tekst powstał w XV w. i jest wypowiedzią Maryi, skierowaną do 4 adresatów
 - gatunek: **plankt** – gatunek liryki funeralnej, w którym zawarte jest wezwanie o pomoc w opłakiwaniu zmarłego, a także prośba do Boga o ulgę w cierpieniu
 - utwór jest **apokryfem** – księgą, która nie weszła do Biblii
-- podmiotem lirycznym jest Maryja, która chce opowiedzieć o ukrzyżowaniu Jezusa w Wielki Piątek
+- podmiotem lirycznym jest Maryja, która chce opowiedzieć o ukrzyżowaniu Jezusa w Wielki Piątek.
 
 # Adresaci
 
@@ -25,7 +25,7 @@
    - zastanawia się i słabnie wskutek sytuacji
 4. **Matki**
    - Maryja przestrzega je, aby nigdy nie były świadkami śmierci swoich dzieci, i mają w tym pomoc Boga
-   - na końcu znów zwraca się do Jezusa i obiecuje [nieczytelne] innego dziecka
+   - na końcu znów zwraca się do Jezusa i obiecuje nieposiadanie innego dziecka
 
 # Motywy
 

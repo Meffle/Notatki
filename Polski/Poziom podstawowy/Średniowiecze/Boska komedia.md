@@ -7,7 +7,7 @@
 - raj pokazuje mu ukochana **Beatrycze**, kobieta piękna, tajemnicza
 - „Boska komedia" jest poematem narracyjnym, zawiera elementy satyryczne i refleksyjne
 - podróż, którą odbywa Dante, ma znaczenie dosłowne i metaforyczne
-  - dosłownie – przemierza piekielne czeluście, w których jest świadkiem scen krwawych, przerażających, huków, jęków cierpiących dusz
+  - dosłownie – przemierza piekielne czeluście, w których jest świadkiem scen krwawych, przerażających, huków, jęków cierpiących dusz.
   - **dantejskie sceny** – sceny przepełnione krwią, grozą, chaosem
   - w sensie metaforycznym wędrówka to odkrywanie swojego wnętrza, poznawanie błędów i grzechów, które popełnił; są one ukazane za pomocą zwierząt, które stanowią alegorię ludzkich grzechów (zob. [[Alegorie i symbole]])
 

@@ -7,7 +7,7 @@
   - występują w nich elementy fantastyczne, baśniowe
   - ich bohaterami są często osoby święte, których życiu towarzyszą cuda
   - w legendach występują diabły, postaci anielskie, ale też mityczne zwierzęta i rośliny
-- **asceza** (ćwiczenie, próba) – postawa polegająca na wyzbywaniu się dóbr materialnych, przyjemności cielesnych, życiu w ubóstwie, skupieniu się na modlitwie, aby zadbać o rozwój duchowy i osiągnąć życie wieczne
+- **asceza** (ćwiczenie, próba) – postawa polegająca na wyzbywaniu się dóbr materialnych, przyjemności cielesnych, życiu w ubóstwie, skupieniu się na modlitwie, aby zadbać o rozwój duchowy i osiągnąć życie wieczne.
 
 # Fabuła
 

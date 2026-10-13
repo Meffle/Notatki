@@ -8,7 +8,7 @@
 
 # Mistycyzm
 
-- nurt, zgodnie z którym wierzono, że można osiągnąć duchową jedność z Bogiem dzięki modlitwie i rozmyślaniu
+- nurt, zgodnie z którym wierzono, że można osiągnąć duchową jedność z Bogiem dzięki modlitwie i rozmyślaniu.
 
 # Augustynizm
 

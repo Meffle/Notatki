@@ -30,7 +30,7 @@ Zob. też: [[Boska komedia]] (lew, wilczyca jako alegorie grzechów).
 
 - biel – dziewictwo
 - błękit – niebo, duchowość
-- czerń – [nieczytelne], grzech
+- czerń – czerń, grzech
 - czerwień – miłość, władza
 - zieleń – odrodzenie, nadzieja
 - żółć – zdrada
