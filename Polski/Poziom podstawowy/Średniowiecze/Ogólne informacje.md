@@ -10,7 +10,7 @@
   - **1453** – upadek Konstantynopola
   - **1492** – odkrycie Ameryki przez Kolumba
   - **1440** – wynalezienie ruchomej czcionki przez Jana Gutenberga
-- w Polsce średniowiecze trwa od **X do XV wieku**: od chrztu Polski (**966**) do **1543** (wydanie dzieła Mikołaja Kopernika „O obrotach sfer niebieskich")
+- w Polsce średniowiecze trwa od **X do XVI wieku**: od chrztu Polski (**966**) do **1543** (wydanie dzieła Mikołaja Kopernika „O obrotach sfer niebieskich")
 
 ### ==Nurt epoki==
 
